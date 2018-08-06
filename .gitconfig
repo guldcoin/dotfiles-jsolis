@@ -1,0 +1,9 @@
+[user]
+	username = jsolis
+	name = Jason Solis
+	location = Trumbull, CT
+	website = http://about.me/jsolis
+[commit]
+	gpgsign = true
+[aliases]
+	github = jsolis
